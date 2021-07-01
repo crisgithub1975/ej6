@@ -1,9 +1,9 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(14, 33, 139);
 }
 h1 {
+    width: 100%;
     color: white;
     font-size: 10vw;
     text-align: center;
-    margin-top: 40vh;
 }
